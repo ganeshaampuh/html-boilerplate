@@ -5,13 +5,16 @@
     "dev": "gulp watch"
   },
   "devDependencies": {
-    "bootstrap-sass": "^3.3.7",
     "gulp": "^3.9.1",
     "gulp-data": "^1.2.1",
     "gulp-nunjucks-render": "^2.0.0",
-    "jquery": "^3.1.0",
+    "jquery": "^3.4.1",
     "laravel-elixir": "^6.0.0-9",
     "laravel-elixir-browsersync-official": "^1.0.0",
     "laravel-elixir-webpack-official": "^1.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "popper.js": "^1.16.0"
   }
 }
